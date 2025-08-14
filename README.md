@@ -1,15 +1,15 @@
-<div align="center">
+<div>
   <h1>Hello! I am Lev Knyazev</h1>
   <h3>Fullstack developer, tech specialist, designer, and team lead.</h3>
   
-  <div align="center">
+  <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Designer;Fullstack+Developer;Tech+specialist;Team+lead" alt="Typing SVG" />
   </div>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+##About Me
 
 I am a freelance backend developer 👨‍💻 have been doing programming for several years. 🚀
 

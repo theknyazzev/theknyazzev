@@ -19,111 +19,111 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
 
 ## 🛠️ Skills & Technologies
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=html" width="60" height="60"/><br>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=html" width="80" height="80"/><br>
       <b>HTML</b><br>
       <sub>Markup Language</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60"/><br>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=css" width="80" height="80"/><br>
       <b>CSS</b><br>
       <sub>Styling</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=js" width="60" height="60"/><br>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=js" width="80" height="80"/><br>
       <b>JavaScript</b><br>
       <sub>Frontend/Backend</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60"/><br>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=ts" width="80" height="80"/><br>
       <b>TypeScript</b><br>
       <sub>Type-safe JS</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=py" width="60" height="60"/><br>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=py" width="80" height="80"/><br>
       <b>Python</b><br>
       <sub>Backend Development</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="80" height="80"/><br>
       <b>React</b><br>
       <sub>Frontend Framework</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="80" height="80"/><br>
       <b>Tailwind CSS</b><br>
       <sub>Utility Framework</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=django" width="80" height="80"/><br>
       <b>Django</b><br>
       <sub>Python Framework</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=php" width="80" height="80"/><br>
       <b>PHP</b><br>
       <sub>Server Language</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=go" width="80" height="80"/><br>
       <b>Go</b><br>
       <sub>Systems Programming</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="80" height="80"/><br>
       <b>PostgreSQL</b><br>
       <sub>Relational Database</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redis" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=redis" width="80" height="80"/><br>
       <b>Redis</b><br>
       <sub>In-Memory Database</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="80" height="80"/><br>
       <b>Linux</b><br>
       <sub>System Administration</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="80" height="80"/><br>
       <b>Docker</b><br>
       <sub>Containerization</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bots" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=bots" width="80" height="80"/><br>
       <b>Bot Development</b><br>
       <sub>Automation</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=figma" width="80" height="80"/><br>
       <b>Figma</b><br>
       <sub>UI/UX Design</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=photoshop" width="80" height="80"/><br>
       <b>Photoshop</b><br>
       <sub>Image Editing</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="80" height="80"/><br>
       <b>Git</b><br>
       <sub>Version Control</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80"/><br>
       <b>VS Code</b><br>
       <sub>Code Editor</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nginx" width="60" height="60"/><br>
+      <img src="https://skillicons.dev/icons?i=nginx" width="80" height="80"/><br>
       <b>Nginx</b><br>
       <sub>Web Server</sub>
     </td>

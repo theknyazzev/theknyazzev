@@ -3,7 +3,7 @@
   <h3>Fullstack developer, tech specialist, designer, and team lead.</h3>
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Python+%26+JavaScript+Expert;Linux+Enthusiast;Bot+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Designer;Fullstack+Developer;Tech+specialist;Team+lead" alt="Typing SVG" />
   </div>
 </div>
 

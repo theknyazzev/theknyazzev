@@ -2,7 +2,9 @@
   <h1>🍪 Hello! My name is Dealite</h1>
   <h3>👨‍💻 Freelance Backend Developer | 🚀 Programming for several years</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Python+%26+JavaScript+Expert;Linux+Enthusiast;Bot+Developer" alt="Typing SVG" />
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Python+%26+JavaScript+Expert;Linux+Enthusiast;Bot+Developer" alt="Typing SVG" />
+  </div>
 </div>
 
 ---
@@ -35,6 +37,11 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
       <sub>Frontend/Backend</sub>
     </td>
     <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60"/><br>
+      <b>TypeScript</b><br>
+      <sub>Type-safe JS</sub>
+    </td>
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=py" width="60" height="60"/><br>
       <b>Python</b><br>
       <sub>Backend Development</sub>
@@ -42,9 +49,41 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
   </tr>
   <tr>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="60" height="60"/><br>
+      <b>React</b><br>
+      <sub>Frontend Framework</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60"/><br>
+      <b>Tailwind CSS</b><br>
+      <sub>Utility Framework</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="60" height="60"/><br>
+      <b>Django</b><br>
+      <sub>Python Framework</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="60" height="60"/><br>
+      <b>PHP</b><br>
+      <sub>Server Language</sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=go" width="60" height="60"/><br>
       <b>Go</b><br>
       <sub>Systems Programming</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60"/><br>
+      <b>PostgreSQL</b><br>
+      <sub>Relational Database</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="60" height="60"/><br>
+      <b>Redis</b><br>
+      <sub>In-Memory Database</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="60" height="60"/><br>
@@ -52,40 +91,62 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
       <sub>System Administration</sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60"/><br>
+      <b>Docker</b><br>
+      <sub>Containerization</sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=bots" width="60" height="60"/><br>
       <b>Bot Development</b><br>
       <sub>Automation</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60"/><br>
-      <b>Docker</b><br>
-      <sub>Containerization</sub>
+      <img src="https://skillicons.dev/icons?i=figma" width="60" height="60"/><br>
+      <b>Figma</b><br>
+      <sub>UI/UX Design</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=photoshop" width="60" height="60"/><br>
+      <b>Photoshop</b><br>
+      <sub>Image Editing</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60"/><br>
+      <b>Git</b><br>
+      <sub>Version Control</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60"/><br>
+      <b>VS Code</b><br>
+      <sub>Code Editor</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" width="60" height="60"/><br>
+      <b>Nginx</b><br>
+      <sub>Web Server</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 What I Do
-
-<div align="center">
-  
-| 🔧 **Backend Development** | 🤖 **Bot Creation** | 🐧 **Linux Administration** |
-|:---:|:---:|:---:|
-| REST APIs | Telegram Bots | Server Setup |
-| Database Design | Discord Bots | Process Automation |
-| Microservices | Web Scraping | Security Configuration |
-
-</div>
-
----
-
 ## 🚀 My Projects
 
-<!-- Добавьте описание ваших проектов здесь -->
-- **🤖 Project 1** - Description of your bot project
-- **🌐 Project 2** - Description of your web project
-- **⚡ Project 3** - Description of your automation project
+```python
+# 🤖 Project 1 - Description of your bot project
+# 🌐 Project 2 - Description of your web project  
+# ⚡ Project 3 - Description of your automation project
+
+def my_projects():
+    projects = {
+        "bot_project": "🤖 Telegram automation bot",
+        "web_project": "🌐 RESTful API service", 
+        "automation": "⚡ Linux server automation"
+    }
+    return projects
+```
 
 ---
 

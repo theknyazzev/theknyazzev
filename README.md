@@ -1,6 +1,6 @@
 <div>
   <h1>Hello! I am Lev Knyazev</h1>
-  <h3>Fullstack developer, tech specialist, designer, and team lead.</h3>
+  <h3>🥷 Fullstack developer, tech specialist, designer, and team lead.</h3>
   
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Designer;Fullstack+Developer;Tech+specialist;Team+lead" alt="Typing SVG" />
@@ -9,15 +9,13 @@
 
 ---
 
-##About Me
+## About Me
 
-I am a freelance backend developer 👨‍💻 have been doing programming for several years. 🚀
-
-<!-- Добавьте здесь больше информации о себе -->
+More than 3 years of experience in programming, full-stack development, design, and team lead for technical specialists.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <table width="100%">
   <tr>
@@ -132,51 +130,14 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
 
 ---
 
-## 🚀 My Projects
-
-```python
-# 🤖 Project 1 - Description of your bot project
-# 🌐 Project 2 - Description of your web project  
-# ⚡ Project 3 - Description of your automation project
-
-def my_projects():
-    projects = {
-        "bot_project": "🤖 Telegram automation bot",
-        "web_project": "🌐 RESTful API service", 
-        "automation": "⚡ Linux server automation"
-    }
-    return projects
-```
-
----
-
-## 📱 Connect With Me
+## Connect With Me
 
 <div align="center">
-  <a href="https://t.me/decapuccino">
+  <a href="https://t.me/knyazzevfamily">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <!-- Добавьте другие социальные сети -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:theknyazzev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-## 💡 Fun Facts
-
-<!-- Добавьте интересные факты о себе -->
-- 🍪 I love cookies (obviously!)
-- ⚡ I automate everything I can
-- 🌙 Night owl programmer
-- 🔧 Always learning new technologies
-
----
-
-<div align="center">
-  <i>⭐️ Thanks for visiting my profile! Feel free to reach out! ⭐️</i>
 </div>

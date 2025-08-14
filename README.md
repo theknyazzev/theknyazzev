@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🍪 Hello! My name is Dealite</h1>
-  <h3>👨‍💻 Freelance Backend Developer | 🚀 Programming for several years</h3>
+  <h1>Hello! I am Lev Knyazev</h1>
+  <h3>Fullstack developer, tech specialist, designer, and team lead.</h3>
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;Python+%26+JavaScript+Expert;Linux+Enthusiast;Bot+Developer" alt="Typing SVG" />

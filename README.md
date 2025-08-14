@@ -19,9 +19,9 @@ I am a freelance backend developer 👨‍💻 have been doing programming for s
 
 ## 🛠️ Skills & Technologies
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="20%">
+    <td width="20%">
       <img src="https://skillicons.dev/icons?i=html" width="80" height="80"/><br>
       <b>HTML</b><br>
       <sub>Markup Language</sub>

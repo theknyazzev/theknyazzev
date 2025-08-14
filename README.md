@@ -132,7 +132,7 @@ More than 3 years of experience in programming, full-stack development, design, 
 
 ## Connect With Me
 
-<div align="center">
+<div>
   <a href="https://t.me/knyazzevfamily">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
